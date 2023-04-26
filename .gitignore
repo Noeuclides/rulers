@@ -1,0 +1,17 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+rulers-*.gem
+.rubocop.yml
+.github/
+sig/
+*.lock
+
+# rspec failure tracking
+.rspec
+.rspec_status
